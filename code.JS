@@ -1,5 +1,5 @@
 function PlayCraps() {
-    // this is a one line comment
+    //This is a one-line comment
     /*this is a function to play craps in game.html
     Must reference the JS file in the HTML to work.
     rules for craps
